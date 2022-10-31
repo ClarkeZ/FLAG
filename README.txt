@@ -1,4 +1,4 @@
-Afin de compiler le programme il faut utiliser la commande: 
+Pour compiler le programme il suffit de lancer la commande suivante : 
 $ make
 
 puis lancer l’exécutable en faisant la commande:
