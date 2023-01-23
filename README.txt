@@ -1,3 +1,5 @@
+Projet implémentant la décomposition PLUQ d'une matrice, l'inversion d'une matrice, et la multiplication de matrices utilisant l'algorithme de Strassen.
+
 Pour compiler le programme il suffit de lancer la commande suivante : 
 $ make
 
